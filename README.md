@@ -37,7 +37,7 @@
 
 ```gradle
     dependencies {
-        implementation 'com.github.FlyJingFish:FormatTextViewLib:1.0.0'
+        implementation 'com.github.hirezy:FormatTextViewLib:1.0.0'
     }
 ```
 # 第三步，使用说明

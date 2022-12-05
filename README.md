@@ -33,7 +33,7 @@
         }
     }
 ```
-# 第二步，需要引用的build.gradle （最新版本(https://jitpack.io/#hirezy/FormatTextViewLib)）
+# 第二步，需要引用的build.gradle (最新版本[![](https://jitpack.io/v/hirezy/FormatTextViewLib.svg)](https://jitpack.io/#hirezy/FormatTextViewLib))
 
 ```gradle
     dependencies {

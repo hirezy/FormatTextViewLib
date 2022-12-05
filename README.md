@@ -270,11 +270,4 @@ text7.setOnInflateImageListener(new HtmlTextView.OnInflateImageListener() {
 |maxHeight|float|图片高度(单位：DP)|
 |verticalAlignment|int|图片对齐方式(ALIGN_BASELINE/ALIGN_CENTER/ALIGN_BOTTOM)|
 
-支持不操作Bitmap的圆图或圆角图，可绘制圆环背景边框或圆角框背景边框，除ImageView自带属性外新增4种显示模式；另外更有可绘制任意图形的图片只有你想不到，没有它做不到
-
-- [ShapeImageView](https://github.com/FlyJingFish/ShapeImageView)
-
-支持点击小图查看大图的动画打开效果的图片查看器
-
-- [OpenImage](https://github.com/FlyJingFish/OpenImage)（已内置ShapeImageView）
 

@@ -20,7 +20,7 @@
 
 ### 2、支持为存在链接的标签添加点击事件
 
-<img src="https://github.com/hirezy/FormatTextViewLib/tree/master/screenshot/Screenshot_20220908_184829.jpg" width="405px" height="842px" alt="show" />
+<img src="https://github.com/hirezy/FormatTextViewLib/blob/master/screenshot/Screenshot_20220908_184829.jpg" width="405px" height="842px" alt="show" />
 
 
 # 第一步，根目录build.gradle

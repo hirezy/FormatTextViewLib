@@ -1,4 +1,4 @@
-package com.flyjingfish.formattextview
+package com.hirezy.formattextview
 
 import android.content.Context
 import android.graphics.Canvas

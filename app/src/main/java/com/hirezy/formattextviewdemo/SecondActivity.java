@@ -1,4 +1,4 @@
-package com.flyjingfish.formattextviewdemo;
+package com.hirezy.formattextviewdemo;
 
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
@@ -12,11 +12,11 @@ import com.bumptech.glide.RequestBuilder;
 import com.bumptech.glide.request.RequestOptions;
 import com.bumptech.glide.request.target.CustomTarget;
 import com.bumptech.glide.request.transition.Transition;
-import com.flyjingfish.FormatTexttextview.FormatText;
-import com.flyjingfish.formattextview.FormatImage;
-import com.flyjingfish.formattextview.FormatTextView;
-import com.flyjingfish.formattextview.HtmlImage;
-import com.flyjingfish.formattextview.HtmlTextView;
+import com.hirezy.FormatTexttextview.FormatText;
+import com.hirezy.formattextview.FormatImage;
+import com.hirezy.formattextview.FormatTextView;
+import com.hirezy.formattextview.HtmlImage;
+import com.hirezy.formattextview.HtmlTextView;
 
 
 public class SecondActivity extends AppCompatActivity {

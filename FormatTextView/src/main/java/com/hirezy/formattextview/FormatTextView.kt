@@ -1,4 +1,4 @@
-package com.flyjingfish.formattextview
+package com.hirezy.formattextview
 
 import android.content.Context
 import android.graphics.*
@@ -17,7 +17,7 @@ import android.util.TypedValue
 import android.view.View
 import androidx.annotation.StringRes
 import androidx.appcompat.widget.AppCompatTextView
-import com.flyjingfish.FormatTexttextview.FormatText
+import com.hirezy.FormatTexttextview.FormatText
 import java.lang.NullPointerException
 import androidx.core.text.TextUtilsCompat
 import java.util.*

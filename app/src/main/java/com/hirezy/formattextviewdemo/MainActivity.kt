@@ -1,4 +1,4 @@
-package com.flyjingfish.formattextviewdemo
+package com.hirezy.formattextviewdemo
 
 import android.graphics.drawable.Drawable
 import androidx.appcompat.app.AppCompatActivity
@@ -11,8 +11,8 @@ import com.bumptech.glide.RequestBuilder
 import com.bumptech.glide.request.RequestOptions
 import com.bumptech.glide.request.target.CustomTarget
 import com.bumptech.glide.request.transition.Transition
-import com.flyjingfish.FormatTexttextview.FormatText
-import com.flyjingfish.formattextview.*
+import com.hirezy.FormatTexttextview.FormatText
+import com.hirezy.formattextview.*
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

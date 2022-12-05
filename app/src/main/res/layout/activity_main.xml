@@ -8,33 +8,33 @@
     android:id="@+id/root"
     tools:context=".MainActivity">
 
-    <com.flyjingfish.formattextview.FormatTextView
+    <com.hirezy.formattextview.FormatTextView
         android:id="@+id/text1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
-    <com.flyjingfish.formattextview.FormatTextView
+    <com.hirezy.formattextview.FormatTextView
         android:id="@+id/text2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
-    <com.flyjingfish.formattextview.FormatTextView
+    <com.hirezy.formattextview.FormatTextView
         android:id="@+id/text3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
-    <com.flyjingfish.formattextview.FormatTextView
+    <com.hirezy.formattextview.FormatTextView
         android:id="@+id/text4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
-    <com.flyjingfish.formattextview.FormatTextView
+    <com.hirezy.formattextview.FormatTextView
         android:id="@+id/text5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="20sp"
         android:text="Hello World!" />
-    <com.flyjingfish.formattextview.FormatTextView
+    <com.hirezy.formattextview.FormatTextView
         android:id="@+id/text6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -42,7 +42,7 @@
         android:lineSpacingExtra="20dp"
         android:text="Hello World!" />
 
-    <com.flyjingfish.formattextview.HtmlTextView
+    <com.hirezy.formattextview.HtmlTextView
         android:id="@+id/text7"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

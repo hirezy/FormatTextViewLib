@@ -1,4 +1,4 @@
-package com.flyjingfish.formattextview
+package com.hirezy.formattextview
 
 import android.text.style.ImageSpan
 import androidx.annotation.ColorRes

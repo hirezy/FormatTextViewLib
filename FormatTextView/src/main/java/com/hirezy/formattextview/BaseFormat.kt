@@ -1,4 +1,4 @@
-package com.flyjingfish.formattextview
+package com.hirezy.formattextview
 
 import androidx.annotation.ColorRes
 

@@ -1,8 +1,4 @@
-# FormatTextViewLib
-
-## 多数app登陆首页都需要显示用户协议和隐私政策并且需要能够点击，遇到需要翻译多个国家语言的，多个TextView拼接会导致语序不对，而且换行也是个问题
-
-# 特色功能
+# FormatTextViewLib特色功能
 
 ## FormatTextView 功能介绍
 
@@ -24,7 +20,7 @@
 
 ### 2、支持为存在链接的标签添加点击事件
 
-<img src="https://github.com/FlyJingFish/FormatTextViewLib/blob/master/screenshot/Screenshot_20220908_184829.jpg" width="405px" height="842px" alt="show" />
+<img src="https://github.com/hirezy/FormatTextViewLib/tree/master/screenshot/Screenshot_20220908_184829.jpg" width="405px" height="842px" alt="show" />
 
 
 # 第一步，根目录build.gradle
@@ -37,11 +33,11 @@
         }
     }
 ```
-# 第二步，需要引用的build.gradle （最新版本[![](https://jitpack.io/v/FlyJingFish/FormatTextViewLib.svg)](https://jitpack.io/#FlyJingFish/FormatTextViewLib)）
+# 第二步，需要引用的build.gradle （最新版本(https://jitpack.io/#hirezy/FormatTextViewLib)）
 
 ```gradle
     dependencies {
-        implementation 'com.github.FlyJingFish:FormatTextViewLib:2.1.5'
+        implementation 'com.github.FlyJingFish:FormatTextViewLib:1.0.0'
     }
 ```
 # 第三步，使用说明
